@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "${workspaceFolder}\\.pyenv\\Scripts\\python.exe",
+    "python.envFile": "${workspaceFolder}/.pyenv",
+    "python.terminal.activateEnvironment": true,
+}
